@@ -8,6 +8,7 @@ The jupuyter notebook and report outline the conceptual framework of the algorit
 4. Examines how well the data fit the Guassian Naive Bayes assumptions of independent, normally distributed features.
 5. Tests and compares our model performance with the GaussianNB algorithm from scikitlearn.
 
+There is also a copy of our final project presentation, given on Dec 10, 2024. We found that all differences between our output and scikitlearn's were due to Laplace smoothing on the variance. We matched exactly when we turned off variance smoothing for GaussianNB.  
 
 The packages used include:
 - python=3.12.5
