@@ -19,4 +19,4 @@ The packages used include:
 - pytest
 - quadprog
 
-A copy of the .yml file used for the course is provided here as well. 
+A copy of the .yml file used for the course is provided for convenience as well.
